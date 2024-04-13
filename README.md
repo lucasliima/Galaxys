@@ -1,7 +1,7 @@
 <p aling="center">
 <img src= ".github/Cover.png" alt= "Demonstração do projeto" width= "100%">
 </p>
-
+git
 ## 🖥️ Projeto
 
 Esse é um projeto responsivo de uma capsula do tempo para exibir memórias em uma linha do tempo.
